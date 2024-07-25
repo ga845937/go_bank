@@ -1,0 +1,6 @@
+log
+.env
+cmd/*.exe
+internal/db/postgres/schema/*
+!internal/db/postgres/schema/.keep
+internal/db/postgres/model/*
